@@ -5,7 +5,7 @@
 
 ### 🚀 Projects
 
-- *[Find-My-Dr]((https://github.com/ShreyaP-19/Find-My-Dr.git))*  
+- *[Find-My-Dr](https://github.com/ShreyaP-19/Find-My-Dr.git)*  
   Full-stack *MERN doctor-patient appointment platform* with secure, role-based authentication, real-time booking, and admin dashboards for doctors & appointments.
 
 - *[Mental State Analyzer](https://github.com/ShreyaP-19/redit-post-sentiment-analysis)*  
