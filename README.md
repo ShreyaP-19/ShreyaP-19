@@ -11,7 +11,7 @@
 - *[Mental State Analyzer](https://github.com/ShreyaP-19/redit-post-sentiment-analysis)*  
   *AI-powered NLP tool* using IBM Watson NLU to detect mental health signals from social media posts, enabling real-time mood detection & personalized content.
 
-- *[Find-My-Dr](https://github.com/ShreyaP-19/E-Commerce-Platform)*  
+- *[E-Commerce-Platform](https://github.com/ShreyaP-19/E-Commerce-Platform)*  
   Full-stack *MERN e-commerce platform* with secure authentication, product browsing & purchase flows, cart management, and end-to-end order processing; also supports seller registration with a dedicated store dashboard for product and business management.
 ---
 
@@ -49,7 +49,7 @@
 - *Email*: shreyapera@gmail.com  
 - *LinkedIn*: [linkedin.com/in/shreya-p19](https://linkedin.com/in/shreya-p19)  
 - *GitHub*: [github.com/ShreyaP-19](https://github.com/ShreyaP-19)
-- *Portfolio*: (https://shreyap-19.github.io/Portfolio/)
+- *Portfolio*: [/Portfolio](https://shreyap-19.github.io/Portfolio/)
 
 ---
 
