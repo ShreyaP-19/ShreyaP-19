@@ -4,6 +4,9 @@
 ---
 
 ### 🚀 Projects
+- *[Text To SQL GenAI](https://github.com/ShreyaP-19/TextToSQLGenAI)*
+  A Python-based web application built with Streamlit that integrates with SQLite for database operations.
+  
 - *[Medical Chatbot using Llama2](https://github.com/ShreyaP-19/Medical-Chatbot-using-Llama2)*  
   An *End-to-End medical chatbot web application* built with Llama2, LangChain, and Flask that retrieves relevant medical information from a Pinecone vector database to answer user queries. It uses a quantized Llama-2-7B model to generate responses based on context retrieved from medical documents.
 
