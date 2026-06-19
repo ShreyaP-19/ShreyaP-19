@@ -4,14 +4,15 @@
 ---
 
 ### 🚀 Projects
-- *[Text To SQL GenAI](https://github.com/ShreyaP-19/TextToSQLGenAI)*
-  A Python-based web application built with Streamlit that integrates with SQLite for database operations.
+
+- *[Text To SQL GenAI](https://github.com/ShreyaP-19/TextToSQLGenAI)*  
+   A Python-based web application built with Streamlit that integrates with *SQLite* for database operations.
   
 - *[Medical Chatbot using Llama2](https://github.com/ShreyaP-19/Medical-Chatbot-using-Llama2)*  
   An *End-to-End medical chatbot web application* built with Llama2, LangChain, and Flask that retrieves relevant medical information from a Pinecone vector database to answer user queries. It uses a quantized Llama-2-7B model to generate responses based on context retrieved from medical documents.
 
 - *[Invoice Extractor using Gemini](https://github.com/ShreyaP-19/Invoice-Extractor-using-Gemini)*  
-  A Streamlit web application that leverages Google's Gemini 2.5 Flash vision model to extract and analyze information from invoice images intelligently.
+  A Streamlit web application that leverages *Google's Gemini 2.5 Flash* vision model to extract and analyze information from invoice images intelligently.
   
 - *[MCQ Generator](https://github.com/ShreyaP-19/MCQGen)*  
   A *Streamlit app* that converts uploaded PDF or TXT content into a set of OpenAI-generated multiple-choice questions, with configurable subject and complexity. It uses LangChain and OpenAI to build the quiz and show results in a table with an expert review summary.
