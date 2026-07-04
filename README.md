@@ -20,14 +20,22 @@
 - *[Bace1 Inhibition Prediction](https://github.com/ShreyaP-19/bace1-inhibitionPrediction)*  
   An *AI-driven* drug discovery system using Graph Neural Networks (GNNs) and ChemBERTa to predict BACE-1 inhibitors and pIC50 values for Alzheimer's disease research.
 
+  *Live deployment*:[https://bace1-inhibition-prediction.vercel.app/](https://bace1-inhibition-prediction.vercel.app/)
+
 - *[Youtube Analytics Dashboard](https://github.com/ShreyaP-19/Youtube_analytics_dashboard)*  
   A *Streamlit web application* that fetches YouTube channel data using the Google API, stores it in SQLite, and provides interactive visualizations and SQL-powered analytics to track video performance, engagement metrics, and channel insights. It enables users to analyze top-performing videos, compare engagement rates, and generate detailed analytics reports for channel evaluation.
 
+   *Live deployment:*[https://huggingface.co/spaces/ShreyaP1908/Youtube_analytics_dashboard](https://huggingface.co/spaces/ShreyaP1908/Youtube_analytics_dashboard)
+
 - *[Mental State Analyzer](https://github.com/ShreyaP-19/redit-post-sentiment-analysis)*  
   *AI-powered NLP tool* using IBM Watson NLU to detect mental health signals from social media posts, enabling real-time mood detection & personalized content.
+
+  *Live deployment:*[https://redit-post-sentiment-analysis-1.onrender.com/](https://redit-post-sentiment-analysis-1.onrender.com/)
   
 - *[Find-My-Dr](https://github.com/ShreyaP-19/Find-My-Dr.git)*  
   Full-stack *MERN doctor-patient appointment platform* with secure, role-based authentication, real-time booking, and admin dashboards for doctors & appointments.
+
+  *Live deployment:*[https://find-my-dr.vercel.app/](https://find-my-dr.vercel.app/)
 
 - *[E-Commerce-Platform](https://github.com/ShreyaP-19/E-Commerce-Platform)*  
   Full-stack *MERN e-commerce platform* with secure authentication, product browsing & purchase flows, cart management, and end-to-end order processing; also supports seller registration with a dedicated store dashboard for product and business management.
