@@ -13,6 +13,8 @@
 
 - *[Invoice Extractor using Gemini](https://github.com/ShreyaP-19/Invoice-Extractor-using-Gemini)*  
   A Streamlit web application that leverages *Google's Gemini 2.5 Flash* vision model to extract and analyze information from invoice images intelligently.
+
+  *Livr deployment:*[https://huggingface.co/spaces/ShreyaP1908/Invoice-extractor-using-Gemini](https://huggingface.co/spaces/ShreyaP1908/Invoice-extractor-using-Gemini)
   
 - *[MCQ Generator](https://github.com/ShreyaP-19/MCQGen)*  
   A *Streamlit app* that converts uploaded PDF or TXT content into a set of OpenAI-generated multiple-choice questions, with configurable subject and complexity. It uses LangChain and OpenAI to build the quiz and show results in a table with an expert review summary.
